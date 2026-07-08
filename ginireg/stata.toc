@@ -2,4 +2,4 @@
 1
 2
 3
-p icomp Calculates informational criteria (AIC, SBIC, ICOMP) Use icomp With STATA 19
+p ginireg Gini regression Use ginireg With STATA 19
