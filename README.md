@@ -1,6 +1,8 @@
 # ginireg
 Gini regression Use ginireg With STATA 19
 
+https://www.youtube.com/watch?v=62hLDMZ1nqE
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
